@@ -1,1 +1,4 @@
-# Teppo-2
+hit htis is teppo file
+aadding data
+yo 
+practies
